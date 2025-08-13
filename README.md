@@ -5,6 +5,7 @@ Este repositório contém a automação de testes end-to-end (E2E) do site [Kanb
 # Quadro de acompanhamento
 
 - [Quadro Jira](https://baruk-freitas.atlassian.net/jira/software/projects/DKB/boards/34)
+- [Quadro Github](https://github.com/users/BarukFreitas/projects/2/views/1)
 
 ## 📋 Pré-requisitos
 
